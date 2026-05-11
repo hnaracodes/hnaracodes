@@ -44,7 +44,7 @@ I’m a 17 year old who loves building intelligent systems that solve real-world
 * **Lead Researcher:** Published in **IEEE Xplore** and **Elsevier** for AI applications in predicting chaotic systems and drug discovery (F-NMR chemical shifts).
 * **Award-Winning Presenter:** Received **Best Oral Presentation** at the IEEE International Conference for Bioinformatics and Biotechnology (Hangzhou, 2025).
 * **Leadership:** Founded **LG Hacks**, the first large-scale hackathon tradition in Los Gatos, reaching 400+ participants and managing $10k+ in sponsorships.
-
+* **Startups:** Working at ZanCompute to develop and do research with **GuideGlass**,securing partnerships with Google and Sankara Eye Foundation.
 ---
 
 ### Connect with Me

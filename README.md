@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Hruday Nara 
-**AI Systems Builder | Applied ML Researcher | Full-Stack Developer**
+**AI Systems | Applied ML | Full-Stack**
 * **Carnegie Mellon University School of Computer Science | Class of 2030**
 
-I’m a tinkerer who loves building intelligent systems that solve real-world problems, specifically with the advent of Artifical Intelligence and modern day tools.
+I’m a 17 year old who loves building intelligent systems that solve real-world problems, specifically with the advent of Artifical Intelligence and other modern day tools.
 
 ---
 
 ###  Technical Skills
-* **AI/ML:** PyTorch, TensorFlow, YOLOv8 (Mobile-edge), ONNX Runtime, LSTMs, Gated Recurrent Units (GRUs), Reservoir Computing.
+* **AI/ML:** PyTorch, TensorFlow, YOLOv8 (Mobile-edge), LSTMs, Gated Recurrent Units (GRUs), Reservoir Computing.
 * **Core Skills:** Computer Vision, RAG, Multimodal Streams, Natural Language Task Engines, ML and complex NN architecture, Mobile Development, Desktop Development, Agentic Workflows
 * **Languages & Tools:** Python, Java, Kotlin, Dart (Flutter), JavaScript, C++, HTML5, React, NodeJS, FlaskAPI, FAST API, Firebase, Git.
+* **Systems Design in Mobile Development**: Zero Allocation Inference Loops, LIFO Frame Buffering, Battery Optimization, State-Triggered MVI Pipelines, Lifecycle-aware Flow Collections, Package abstraction
 
 ---
 
@@ -36,7 +37,7 @@ I’m a tinkerer who loves building intelligent systems that solve real-world pr
 | **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. |
 | **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. |
 | **Chaotic Bio-Forecasting** | Neural operator training framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions. |
-
+| **RealEStateAgent** | Autonomous real estate investment agent — multi-agent LangGraph pipeline that calls the user to collect investment preferences in the real estate market, uses government sector data from Cnesus and HUD to scout zip codes in the area, scouts Zillow listings in those areas, calculates cap rates, total monthly rent, total monthly expensees, assesses risk with Gemini with detailed breakdown of all properties, and emails ranked opportunities on a schedule. Enables the user to chat to explore more about the properties with a Gemini agent, packed with various real estate research functions.|
 ---
 
 ###  Research & Impact

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **AI Systems | Applied ML | Full-Stack**
 * **Carnegie Mellon University School of Computer Science | Class of 2030**
 
-I’m a 17 year old who likes to builds intelligent systems that solve real-world problems.
+I’m an 18 year old who likes to builds intelligent systems that solve real-world problems.
 
 ---
 

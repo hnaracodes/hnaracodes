@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Hruday Nara 
+# Hruday Nara 
 **AI Systems | Applied ML | Full-Stack**
 * **Carnegie Mellon University School of Computer Science | Class of 2030**
-
-I’m an 18 year old who likes to builds intelligent systems that solve real-world problems.
-
 ---
 
 ###  Technical Skills
@@ -27,20 +24,6 @@ I’m an 18 year old who likes to builds intelligent systems that solve real-wor
 * **Languages & Tools:** Python, Java, Kotlin, Dart (Flutter), JavaScript, C++, HTML5, React, NodeJS, FlaskAPI, FAST API, Firebase, Git.
 * **Systems Design in Mobile Development**: Zero Allocation Inference Loops, LIFO Frame Buffering, Battery Optimization, State-Triggered MVI Pipelines, Lifecycle-aware Flow Collections, Package abstraction
 
----
-
-### Featured AI Applications
-| Project | Description |
-| :--- | :--- |
-| **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. |
-| **RealEStateAgent** | Autonomous real estate investment agent — multi-agent LangGraph pipeline that calls the user to collect investment preferences in the real estate market, uses government sector data from Cnesus and HUD to scout zip codes in the area, scouts Zillow listings in those areas, calculates cap rates, total monthly rent, total monthly expensees, assesses risk with Gemini with detailed breakdown of all properties, and emails ranked opportunities on a schedule. Enables the user to chat to explore more about the properties with a Gemini agent, packed with various real estate research functions.|
-| **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations, waiting to publish on the Google Play Store |
-| **Chaotic Bio-Forecasting** | Model Predictive Control Research: Neural operator training framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions (creating a generalized blood dynamics model). Research paper **published in IEEE Conference Proceedings at ICBBT 2025, Won Best Presentation Award (8 out of ~200 presentations)** |
-| **Accelerating DFT with deep learning** | Speeding up complicated Density Functional Theory calculations of 19FNMR shifts with deep learning architectures (State Space Computing, Reservoir Network) with 93% accuracy and 80% more energy efficient. Research Paper **published in Artificial Intelligence Chemistry, presented at Southern California Conference for Undergraduate Research (SCCUR 2024)** |
-| **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. |
-| **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. |
-
----
 
 ###  Research & Impact
 * **Lead Researcher:** Published in **IEEE Xplore** and **Elsevier** for AI applications in predicting chaotic systems and drug discovery (F-NMR chemical shifts).
